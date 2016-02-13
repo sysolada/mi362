@@ -1,2 +1,1 @@
-https://ancient-ridge-17487.herokuapp.com/
-https://git.heroku.com/ancient-ridge-17487.git
+https://sleepy-cliffs-35404.herokuapp.com/
