@@ -1,0 +1,15 @@
+Final Project Adam Sysol
+
+Site: fishing.sysolada.us
+Github: https://github.com/sysolada/MI362Final.git
+
+100 - Hosted on Heroku
+100 - Custom domain name
+100 - Instructor/discretionary
+300 - 4 complete HTML pages with content
+600 - Custom programming that matches your Heroku instance (used some programming for carousels to make pictures switch and lots of bootstrap extras)
+200 - Custom CSS or Bootstrap for design (all pages)
+100 - Use a Heroku add-on in your project (ghost uses mygsql)
+100 - Use a Heroku button install  (made a ghost blog)
+50 - Use at least two custom images (3 images on home page)
+50 - Integrate a JavaScript component (changed stuff in bootstrap)
